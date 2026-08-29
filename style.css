@@ -1,0 +1,61 @@
+h3 {
+    text-align: center;
+ font-family: Arial;
+}
+
+.page{
+    display: flex;
+    background-color: yellow;
+   justify-content: center; 
+ gap: 350px;
+}
+
+.page button{
+     border: 1px solid pink;
+     background-color:pink;
+     border-radius: 2px;
+     text-align: center;
+    margin: 5px;
+    padding: 10px 25px;
+}
+h2 {
+  font-family: cursive, 'Brush Script MT', serif;
+  text-align: center;
+  font-size: 28px;
+  font-style: italic;
+}
+.box{
+     display: flex;
+   justify-content: center; 
+     gap: 150px;
+}
+.box h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box div{
+    border: 3px solid blue;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px black;
+     padding: 10px 30px;
+}
+.box img{
+    display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+    box-shadow: 5px 5px 0px black;
+
+width: 150px;
+height: 120px;
+
+}
+.Name {
+    background-color: black;
+    margin: 0;
+    margin-top: 20px;        
+    padding: 0px 0 60px 0;  
+}
+.Name p {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
